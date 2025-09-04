@@ -92,11 +92,11 @@ A React Native + Expo mobile app that provides real-time form coaching for stret
 
 ### 2.4 Feature Engine
 
-- [ ] Implement angle calculations (hip, knee, shoulder, neck)
-- [ ] Add body line straightness computation
-- [ ] Implement velocity calculations (dangle/dt)
-- [ ] Add partial visibility handling
-- [ ] Create fallback computations for missing keypoints
+- [x] Implement angle calculations (hip, knee, shoulder, neck)
+- [x] Add body line straightness computation
+- [x] Implement velocity calculations (dangle/dt)
+- [x] Add partial visibility handling
+- [x] Create fallback computations for missing keypoints
 
 ### 2.5 Motion Buffer
 
