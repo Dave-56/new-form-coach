@@ -84,11 +84,11 @@ A React Native + Expo mobile app that provides real-time form coaching for stret
 
 ### 2.3 Pose Service
 
-- [ ] Implement PoseService with TF.js integration
-- [ ] Add keypoint detection with confidence scores
-- [ ] Implement visibility detection (conf >= 0.6)
-- [ ] Add error handling for pose estimation failures
-- [ ] Create interface for future native pose integration
+- [x] Implement PoseService with TF.js integration
+- [x] Add keypoint detection with confidence scores
+- [x] Implement visibility detection (conf >= 0.6)
+- [x] Add error handling for pose estimation failures
+- [x] Create interface for future native pose integration
 
 ### 2.4 Feature Engine
 
