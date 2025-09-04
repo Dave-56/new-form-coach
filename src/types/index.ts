@@ -21,5 +21,15 @@ export interface Pose {
 
 // Placeholder types - will be expanded in Phase 2
 export type KeypointName = string;
-export type StretchType = 'plank' | 'hamstring' | 'quad' | 'shoulder_cross' | 'calf';
-export type FSMState = 'WAITING' | 'READY' | 'HOLDING' | 'COACH_ISSUE' | 'COOLDOWN';
+export type StretchType =
+  | 'plank'
+  | 'hamstring'
+  | 'quad'
+  | 'shoulder_cross'
+  | 'calf';
+export type FSMState =
+  | 'WAITING'
+  | 'READY'
+  | 'HOLDING'
+  | 'COACH_ISSUE'
+  | 'COOLDOWN';

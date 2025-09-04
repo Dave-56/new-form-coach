@@ -6,7 +6,10 @@
 // Performance targets
 export const PERFORMANCE_TARGETS = {
   CAMERA_FPS: { MIN: 8, MAX: 12 },
-  POSE_INFERENCE_MS: { NATIVE: { MIN: 40, MAX: 80 }, TFJS: { MIN: 80, MAX: 150 } },
+  POSE_INFERENCE_MS: {
+    NATIVE: { MIN: 40, MAX: 80 },
+    TFJS: { MIN: 80, MAX: 150 },
+  },
   END_TO_SPEECH_MS: { MAX: 800 },
 } as const;
 
