@@ -69,10 +69,10 @@ A React Native + Expo mobile app that provides real-time form coaching for stret
 
 ### 2.1 Type Definitions
 
-- [ ] Define KeypointName, Keypoint, Pose types
-- [ ] Define Features, MotionBuffer types
-- [ ] Define FSM event and configuration types
-- [ ] Define Coach and TTS types
+- [x] Define KeypointName, Keypoint, Pose types
+- [x] Define Features, MotionBuffer types
+- [x] Define FSM event and configuration types
+- [x] Define Coach and TTS types
 
 ### 2.2 Camera Service
 
