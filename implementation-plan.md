@@ -76,11 +76,11 @@ A React Native + Expo mobile app that provides real-time form coaching for stret
 
 ### 2.2 Camera Service
 
-- [ ] Implement CameraService class
-- [ ] Set up 8-12 FPS frame capture
-- [ ] Implement ROI cropping functionality
-- [ ] Add frame timestamp and ID generation
-- [ ] Test camera permissions and error handling
+- [x] Implement CameraService class
+- [x] Set up 8-12 FPS frame capture
+- [x] Implement ROI cropping functionality
+- [x] Add frame timestamp and ID generation
+- [x] Test camera permissions and error handling
 
 ### 2.3 Pose Service
 
